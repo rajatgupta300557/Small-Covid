@@ -4,7 +4,7 @@ It is a small covid tracker where all type of Active Cases, Recovered Case, and 
 
 #  1. Loading Screen: 
 
- ![Continuation indent](docs/1.jpeg)
+ ![Continuation indent](docs/1.jpeg | width=48)
  
 #  2. Main Screen: (Data/Dashboard) 
  
