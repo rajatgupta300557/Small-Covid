@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Small Covid</string>
+    <string name="state_name">States</string>
+    <string name="todo">TODO</string>
+    <string name="confirmed"><b>Confirmed</b></string>
+    <string name="india">INDIA</string>
+    <string name="states_ut">States/Union Territory:</string>
+</resources>
