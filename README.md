@@ -18,4 +18,4 @@ It is a small covid tracker where all type of Active Cases, Recovered Case, and 
  
  ![Continuation indent](docs/4.jpeg)
  
-# Thanks and Like and Comment Issue or Modifications You Want
+Thanks Comment Issue or Modifications You Want
